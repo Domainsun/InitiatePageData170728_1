@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity">
+        <item>旅行</item>
+        <item>活动</item>
+        <item>玩乐</item>
+    </string-array>
+    <string-array name="needtime">
+        <item>0.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="startcity">
+        <item>南  阳</item>
+        <item>赣  州</item>
+        <item>北  京</item>
+    </string-array>
+    <string-array name="finshcity">
+        <item>南  阳</item>
+        <item>赣  州</item>
+        <item>北  京</item>
+    </string-array>
+    <string-array name="startcounty">
+        <item>宛城区</item>
+        <item>卧龙区</item>
+        <item>南召县</item>
+        <item>章贡区</item>
+        <item>蟠龙镇</item>
+        <item>南康</item>
+    </string-array>
+    <string-array name="finshcounty">
+        <item>宛城区</item>
+        <item>卧龙区</item>
+        <item>南召县</item>
+        <item>章贡区</item>
+        <item>蟠龙镇</item>
+        <item>南康</item>
+    </string-array>
+    <string-array name="peoples">
+        <item>5</item>
+        <item>10</item>
+        <item>15</item>
+        <item></item>
+    </string-array>
+</resources>

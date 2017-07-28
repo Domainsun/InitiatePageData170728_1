@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LaunchedCampaign</string>
+    <string name="type">类型</string>
+    <string name="needtime">需用时</string>
+    <string name="startplace">出发地</string>
+    <string name="finshplace">目的地</string>
+    <string name="activityValidity">活动有效期</string>
+    <string name="choosedata">请选择日期</string>
+    <string name="peoples">人数限制</string>
+    <string name="haveCar">有车</string>
+    <string name="NoCar">无车</string>
+    <string name="Introduction">简介</string>
+    <string name="PromptInformation">洛阳本地人带你体验不一样的古都美景美食！体验本地人的玩法。</string>
+    <string name="price">价格   ¥</string>
+    <string name="price1">99.9</string>
+    <string name="cancel">取消</string>
+    <string name="next">下一步</string>
+    <string name="price2">元</string>
+    <string name="tishi">此界面内容可选填，为吸引用户加入活动，建议填写哦！</string>
+    <string name="picture">图片</string>
+    <string name="choosepicture">请选择图片</string>
+    <string name="EventDetails">活动详情</string>
+    <string name="EventDetails1">行程介绍：\n 1.洛阳九景色 \n 2.洛阳本地人才知道的街头巷尾美食
+        \n 3.活动有效期值2017年6月1日\n 4.自定义旅行</string>
+    <string name="last">上一步</string>
+    <string name="save">保存</string>
+    <string name="submitaudit">提交审核</string>
+    <string name="jin">今</string>
+</resources>
